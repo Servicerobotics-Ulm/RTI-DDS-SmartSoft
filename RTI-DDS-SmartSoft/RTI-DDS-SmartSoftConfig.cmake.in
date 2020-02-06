@@ -1,0 +1,10 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
+
+# find the SmartSoft Component-Developer API package
+FIND_PACKAGE(SmartSoft_CD_API 1.1 PATHS $ENV{SMART_ROOT_ACE}/modules)
+
+# search RTI package as a CMake module
+SET(CMAKE_MODULE_PATH "$ENV{NDDSHOME}/resource/cmake")
+FIND_PACKAGE(RTIConnextDDS 6.0.0 MODULE COMPONENTS messaging_api)
+
+INCLUDE("${CMAKE_CURRENT_LIST_DIR}/@EXPORT_NAME@.cmake")
