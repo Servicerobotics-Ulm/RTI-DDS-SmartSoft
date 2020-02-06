@@ -1,6 +1,6 @@
 # RTI-DDS/SmartSoft
 
-This repository provides the implementation of the **RTI-DDS/SmartSoft** framework. The **RTI-DDS/SmartSoft** framework implements the **[SmartSoft Component-Developer API](https://github.com/Servicerobotics-Ulm/SmartSoftComponentDeveloperAPIcpp)** based on the **[The RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** middleware.
+This repository provides the implementation of the **RTI-DDS/SmartSoft** framework. The **RTI-DDS/SmartSoft** framework implements the **[SmartSoft Component-Developer API](https://github.com/Servicerobotics-Ulm/SmartSoftComponentDeveloperAPIcpp)** based on the **[RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** middleware.
 
 ## Installation instructions
 
