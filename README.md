@@ -4,13 +4,12 @@ This repository provides the implementation of the **RTI-DDS/SmartSoft** framewo
 
 ## Installation instructions
 
-The **RTI-DDS/SmartSoft Framework** has two main dependencies, the **[SmartSoft Component-Developer API](https://github.com/Servicerobotics-Ulm/SmartSoftComponentDeveloperAPIcpp)** (see instructions below), and the **[RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** middleware. For the installation of the **RTI Connext DDS** library we recommend to read the **[Getting Started Guide (PDF)]( https://community.rti.com/static/documentation/connext-dds/6.0.1/doc/manuals/connext_dds/RTI_ConnextDDS_CoreLibraries_GettingStarted.pdf)**.
+The **RTI-DDS/SmartSoft Framework** has two main dependencies, the **[SmartSoft Component-Developer API](https://github.com/Servicerobotics-Ulm/SmartSoftComponentDeveloperAPIcpp)** (see instructions below), and the **[RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** (min. version **6.0.1**) middleware. For the installation of the **RTI Connext DDS** library we recommend to read the **[Getting Started Guide (PDF)]( https://community.rti.com/static/documentation/connext-dds/6.0.1/doc/manuals/connext_dds/RTI_ConnextDDS_CoreLibraries_GettingStarted.pdf)**.
 
 Further dependencies:
 
   * **[CMake](https://cmake.org/)** min. version **3.5**
   * C++ compiler supporting the **C++ 11** standard
-  * **[RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** library version **6.0.1**
   * optional: [Google Test](https://github.com/google/googletest) (for optionally executing the included tests)
 
 At the moment, RTI-DDS/SmartSoft has been extensively tested with the Ubuntu 18.04 64bit Linux operating system, however, the library by itself is independent of any specific operating system. If you are using Ubuntu Linux, we recommend to install the necessary build essentials:
