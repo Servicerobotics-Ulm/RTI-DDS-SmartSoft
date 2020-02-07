@@ -9,7 +9,7 @@ The **RTI-DDS/SmartSoft Framework** has two main dependencies, the **[SmartSoft 
 Further dependencies:
 
   * **[CMake](https://cmake.org/)** min. version **3.5**
-  * A C++ compiler supporting the **C++ 11** standard
+  * C++ compiler supporting the **C++ 11** standard
   * **[RTI Connext DDS](https://www.rti.com/products/connext-dds-professional)** library version **6.0.1**
   * optional: [Google Test](https://github.com/google/googletest) (for optionally executing the included tests)
 
@@ -19,7 +19,7 @@ At the moment, RTI-DDS/SmartSoft has been extensively tested with the Ubuntu 18.
 > sudo apt-get install build-essential pkg-config cmake
 ```
 
-Please follow the additional instalation instructions in the followup sections.
+Please follow the additional installation instructions in the followup sections.
 
 ### Cloning and Building the SmartSoft Component-Developer API
 
