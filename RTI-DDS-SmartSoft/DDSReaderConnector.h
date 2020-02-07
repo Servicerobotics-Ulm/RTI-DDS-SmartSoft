@@ -46,8 +46,8 @@
 #include <smartStatusCode.h>
 #include <smartChronoAliases.h>
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
 
 namespace SmartDDS {
 

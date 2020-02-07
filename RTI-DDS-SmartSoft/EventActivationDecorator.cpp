@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/EventActivationDecorator.h"
+#include "RTI-DDS-SmartSoft/EventActivationDecorator.h"
 
 namespace SmartDDS {
 

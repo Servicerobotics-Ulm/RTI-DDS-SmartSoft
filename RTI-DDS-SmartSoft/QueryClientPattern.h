@@ -47,14 +47,14 @@
 #include <mutex>
 #include <memory>
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/CorrelationId.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/CorrelationId.h"
 
-#include "RtiDdsSmartSoft/DDSReaderConnector.h"
-#include "RtiDdsSmartSoft/DDSWriterConnector.h"
+#include "RTI-DDS-SmartSoft/DDSReaderConnector.h"
+#include "RTI-DDS-SmartSoft/DDSWriterConnector.h"
 
-#include "RtiDdsSmartSoft/QueryPatternQoS.h"
-#include "RtiDdsSmartSoft/QueryClientAnswerTrigger.h"
+#include "RTI-DDS-SmartSoft/QueryPatternQoS.h"
+#include "RTI-DDS-SmartSoft/QueryClientAnswerTrigger.h"
 
 #include <smartIQueryClientPattern_T.h>
 

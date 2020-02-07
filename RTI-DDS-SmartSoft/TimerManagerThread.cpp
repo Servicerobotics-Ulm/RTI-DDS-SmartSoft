@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/TimerManagerThread.h"
+#include "RTI-DDS-SmartSoft/TimerManagerThread.h"
 
 #include <list>
 // using std::bind

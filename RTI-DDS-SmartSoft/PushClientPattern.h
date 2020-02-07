@@ -43,9 +43,9 @@
 #ifndef RTIDDSSMARTSOFT_PUSHCLIENTPATTERN_H_
 #define RTIDDSSMARTSOFT_PUSHCLIENTPATTERN_H_
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/PushPatternQoS.h"
-#include "RtiDdsSmartSoft/DDSReaderConnector.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/PushPatternQoS.h"
+#include "RTI-DDS-SmartSoft/DDSReaderConnector.h"
 
 #include <smartIPushClientPattern_T.h>
 

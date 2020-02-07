@@ -43,8 +43,8 @@
 #ifndef RTIDDSSMARTSOFT_CORRELATIONIDDECORATOR_H_
 #define RTIDDSSMARTSOFT_CORRELATIONIDDECORATOR_H_
 
-#include "RtiDdsSmartSoft/DDSAliases.h"
-#include "RtiDdsSmartSoft/CorrelationId.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/CorrelationId.h"
 
 namespace SmartDDS {
 

@@ -43,11 +43,11 @@
 #ifndef RTIDDSSMARTSOFT_SENDCLIENTPATTERN_H_
 #define RTIDDSSMARTSOFT_SENDCLIENTPATTERN_H_
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/SendPatternQoS.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/SendPatternQoS.h"
 
-#include "RtiDdsSmartSoft/DDSAliases.h"
-#include "RtiDdsSmartSoft/DDSWriterConnector.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/DDSWriterConnector.h"
 
 #include <smartISendClientPattern_T.h>
 

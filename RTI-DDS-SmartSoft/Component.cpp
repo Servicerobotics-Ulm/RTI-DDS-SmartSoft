@@ -39,7 +39,7 @@
 //  OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 //===================================================================================
-#include "RtiDdsSmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/Component.h"
 
 #include <csignal>
 

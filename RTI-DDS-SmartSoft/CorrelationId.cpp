@@ -41,7 +41,7 @@
 //===================================================================================
 
 #include <ostream>
-#include "RtiDdsSmartSoft/CorrelationId.h"
+#include "RTI-DDS-SmartSoft/CorrelationId.h"
 
 namespace SmartDDS {
 

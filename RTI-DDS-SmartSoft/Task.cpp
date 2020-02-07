@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/Task.h"
+#include "RTI-DDS-SmartSoft/Task.h"
 
 namespace SmartDDS {
 

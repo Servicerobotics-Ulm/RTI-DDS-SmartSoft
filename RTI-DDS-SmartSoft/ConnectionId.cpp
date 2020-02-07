@@ -41,7 +41,7 @@
 //===================================================================================
 
 #include <sstream>
-#include "RtiDdsSmartSoft/ConnectionId.h"
+#include "RTI-DDS-SmartSoft/ConnectionId.h"
 
 namespace SmartDDS {
 

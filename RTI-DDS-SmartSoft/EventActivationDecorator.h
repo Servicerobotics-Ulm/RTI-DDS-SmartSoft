@@ -45,7 +45,7 @@
 
 #include <dds/dds.hpp>
 
-#include "RtiDdsSmartSoft/EventActivation.h"
+#include "RTI-DDS-SmartSoft/EventActivation.h"
 
 namespace SmartDDS {
 

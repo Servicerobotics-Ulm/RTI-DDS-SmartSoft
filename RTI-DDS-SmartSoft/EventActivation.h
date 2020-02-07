@@ -45,7 +45,7 @@
 
 #include <dds/dds.hpp>
 
-#include "RtiDdsSmartSoft/CorrelationId.h"
+#include "RTI-DDS-SmartSoft/CorrelationId.h"
 
 namespace SmartDDS {
 

@@ -42,7 +42,7 @@
 
 #include <vector>
 
-#include "RtiDdsSmartSoft/CorrelationIdDecorator.h"
+#include "RTI-DDS-SmartSoft/CorrelationIdDecorator.h"
 
 namespace SmartDDS {
 

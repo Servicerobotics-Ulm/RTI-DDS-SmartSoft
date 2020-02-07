@@ -48,20 +48,20 @@ DEFINE_TESTING_ENVIRONMENT(RtiDdsTestingEnvironment);
 #include "CommTestObjectsDDS/CommTrajectoryDDS.h"
 
 // DDS component realization
-#include "RtiDdsSmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/Component.h"
 
 // DDS pattern headers
-#include "RtiDdsSmartSoft/PushClientPattern.h"
-#include "RtiDdsSmartSoft/PushServerPattern.h"
+#include "RTI-DDS-SmartSoft/PushClientPattern.h"
+#include "RTI-DDS-SmartSoft/PushServerPattern.h"
 
-#include "RtiDdsSmartSoft/SendClientPattern.h"
-#include "RtiDdsSmartSoft/SendServerPattern.h"
+#include "RTI-DDS-SmartSoft/SendClientPattern.h"
+#include "RTI-DDS-SmartSoft/SendServerPattern.h"
 
-#include "RtiDdsSmartSoft/QueryClientPattern.h"
-#include "RtiDdsSmartSoft/QueryServerPattern.h"
+#include "RTI-DDS-SmartSoft/QueryClientPattern.h"
+#include "RTI-DDS-SmartSoft/QueryServerPattern.h"
 
-#include "RtiDdsSmartSoft/EventClientPattern.h"
-#include "RtiDdsSmartSoft/EventServerPattern.h"
+#include "RTI-DDS-SmartSoft/EventClientPattern.h"
+#include "RTI-DDS-SmartSoft/EventServerPattern.h"
 
 IComponentPtrType RtiDdsTestingEnvironment::createComponent(const std::string &name) {
 	return std::make_shared<SmartDDS::Component>(name);

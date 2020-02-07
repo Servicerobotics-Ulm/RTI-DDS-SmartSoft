@@ -47,7 +47,7 @@
 
 #include <smartICorrelationId.h>
 
-#include "RtiDdsSmartSoft/ConnectionId.h"
+#include "RTI-DDS-SmartSoft/ConnectionId.h"
 
 namespace SmartDDS {
 
@@ -65,6 +65,8 @@ public:
 	CorrelationId(const dds::sub::SampleInfo &info);
 	CorrelationId(const rti::core::SampleIdentity &sid);
 	CorrelationId(const ConnectionId &connection_id, const rti::core::SequenceNumber &sequence_number);
+
+	virtual ~CorrelationId() = default;
 
 	static CorrelationId createRelatedId(const dds::sub::SampleInfo &info);
 

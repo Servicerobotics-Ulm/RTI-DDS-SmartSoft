@@ -46,13 +46,13 @@
 #include <list>
 #include <algorithm>
 
-#include "RtiDdsSmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/Component.h"
 
-#include "RtiDdsSmartSoft/EventPatternQoS.h"
-#include "RtiDdsSmartSoft/EventActivationDecorator.h"
+#include "RTI-DDS-SmartSoft/EventPatternQoS.h"
+#include "RTI-DDS-SmartSoft/EventActivationDecorator.h"
 
-#include "RtiDdsSmartSoft/DDSReaderConnector.h"
-#include "RtiDdsSmartSoft/DDSWriterConnector.h"
+#include "RTI-DDS-SmartSoft/DDSReaderConnector.h"
+#include "RTI-DDS-SmartSoft/DDSWriterConnector.h"
 
 #include <smartIEventServerPattern_T.h>
 

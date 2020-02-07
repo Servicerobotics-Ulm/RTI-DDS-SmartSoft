@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/DDSWriterConnector.h"
+#include "RTI-DDS-SmartSoft/DDSWriterConnector.h"
 
 namespace SmartDDS {
 

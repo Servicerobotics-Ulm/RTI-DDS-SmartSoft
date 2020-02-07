@@ -45,11 +45,11 @@
 
 #include <mutex>
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/PushPatternQoS.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/PushPatternQoS.h"
 
-#include "RtiDdsSmartSoft/DDSAliases.h"
-#include "RtiDdsSmartSoft/DDSWriterConnector.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/DDSWriterConnector.h"
 
 #include <smartIPushServerPattern_T.h>
 

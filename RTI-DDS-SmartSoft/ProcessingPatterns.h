@@ -10,8 +10,8 @@
 
 #include <smartIProcessingPatterns_T.h>
 
-#include "RtiDdsSmartSoft/Task.h"
-#include "RtiDdsSmartSoft/QueryServerHandler.h"
+#include "RTI-DDS-SmartSoft/Task.h"
+#include "RTI-DDS-SmartSoft/QueryServerHandler.h"
 
 namespace SmartDDS {
 

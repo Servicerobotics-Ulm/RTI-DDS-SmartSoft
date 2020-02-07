@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/CorrelationIdFilter.h"
+#include "RTI-DDS-SmartSoft/CorrelationIdFilter.h"
 
 namespace SmartDDS {
 

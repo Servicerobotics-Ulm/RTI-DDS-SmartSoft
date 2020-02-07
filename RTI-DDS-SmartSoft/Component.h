@@ -45,8 +45,8 @@
 
 #include <smartIComponent.h>
 
-#include "RtiDdsSmartSoft/TimerManagerThread.h"
-#include "RtiDdsSmartSoft/DDSInfrastructure.h"
+#include "RTI-DDS-SmartSoft/TimerManagerThread.h"
+#include "RTI-DDS-SmartSoft/DDSInfrastructure.h"
 
 namespace SmartDDS {
 

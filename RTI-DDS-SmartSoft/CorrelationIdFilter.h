@@ -47,8 +47,8 @@
 #include <vector>
 #include <shared_mutex>
 
-#include "RtiDdsSmartSoft/DDSAliases.h"
-#include "RtiDdsSmartSoft/CorrelationId.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/CorrelationId.h"
 
 namespace SmartDDS {
 
@@ -62,6 +62,7 @@ class CorrelationIdFilter
 :	public rti::topic::ContentFilter<DynamicDataSample, CompiledReaderData>
 {
 public:
+	virtual ~CorrelationIdFilter() = default;
 	static std::string DEFAULT_FILTER_NAME;
 	static dds::topic::Filter createClientFilter(const ConnectionId &connection_id);
 private:

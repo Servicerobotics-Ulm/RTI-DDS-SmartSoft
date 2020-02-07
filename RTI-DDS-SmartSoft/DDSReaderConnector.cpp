@@ -41,7 +41,7 @@
 //===================================================================================
 
 
-#include "RtiDdsSmartSoft/DDSReaderConnector.h"
+#include "RTI-DDS-SmartSoft/DDSReaderConnector.h"
 
 namespace SmartDDS {
 	/**

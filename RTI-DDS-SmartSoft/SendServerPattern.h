@@ -45,9 +45,9 @@
 
 #include <mutex>
 
-#include "RtiDdsSmartSoft/Component.h"
-#include "RtiDdsSmartSoft/SendPatternQoS.h"
-#include "RtiDdsSmartSoft/DDSReaderConnector.h"
+#include "RTI-DDS-SmartSoft/Component.h"
+#include "RTI-DDS-SmartSoft/SendPatternQoS.h"
+#include "RTI-DDS-SmartSoft/DDSReaderConnector.h"
 
 #include <smartISendServerPattern_T.h>
 

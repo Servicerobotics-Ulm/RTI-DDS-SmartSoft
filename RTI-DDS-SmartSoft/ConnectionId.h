@@ -47,7 +47,7 @@
 #include <vector>
 #include <iostream>
 
-#include "RtiDdsSmartSoft/DDSAliases.h"
+#include "RTI-DDS-SmartSoft/DDSAliases.h"
 
 namespace SmartDDS {
 

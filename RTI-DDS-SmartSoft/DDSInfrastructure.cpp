@@ -40,7 +40,7 @@
 //
 //===================================================================================
 
-#include "RtiDdsSmartSoft/DDSInfrastructure.h"
+#include "RTI-DDS-SmartSoft/DDSInfrastructure.h"
 
 namespace SmartDDS {
 
