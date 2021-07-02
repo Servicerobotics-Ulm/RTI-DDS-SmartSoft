@@ -3,7 +3,7 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 PROJECT(RTI-DDS-SmartSoft VERSION 1.1)
 
 # find the SmartSoft Component-Developer API package
-FIND_PACKAGE(SmartSoft_CD_API 1.1 PATHS $ENV{SMART_ROOT_ACE}/modules)
+FIND_PACKAGE(SmartSoft_CD_API 1.3 PATHS $ENV{SMART_ROOT_ACE} PATH_SUFFIXES modules)
 
 # search RTI package as a CMake module
 SET(CMAKE_MODULE_PATH "$ENV{NDDSHOME}/resource/cmake")

@@ -55,7 +55,7 @@ public:
 		return SmartDDS::Task::start();
 	}
 
-	virtual int stop(const bool wait_till_stopped=true) override
+	virtual int stop(const bool &wait_till_stopped=true) override
 	{
 		this->signal_to_stop();
 		return SmartDDS::Task::stop();
