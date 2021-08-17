@@ -99,7 +99,7 @@ public:
      *
      *  @return 0 on success or -1 on failure
      */
-    virtual int stop(const bool &wait_till_stopped=true) override;
+    virtual int stop(const bool wait_till_stopped=true) override;
 };
 
 } /* namespace SmartDDS */

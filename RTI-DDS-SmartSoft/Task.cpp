@@ -67,7 +67,7 @@ int Task::start() {
 	return 0;
 }
 
-int Task::stop(const bool &wait_till_stopped)
+int Task::stop(const bool wait_till_stopped)
 {
 	int result = 0;
 	cancelled = true;
